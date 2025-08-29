@@ -4,7 +4,7 @@ End-to-end notebook for predicting diamond prices using classical ML (EDA → fe
 - Ordinal encoding for cut, color, clarity  
 - Scaling of numerical attributes (carat, depth, table, dimensions)  
 - Models: Linear Regression, Random Forest (via scikit-learn pipelines)  
-- Metric: R² ≈ 0.9 on holdout (as per resume summary)
+- Metric: R² ≈ 0.9 on holdout 
 
 ## Quickstart
 ```bash
